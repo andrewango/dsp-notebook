@@ -1,2 +1,2 @@
 # dsp
-Digital Signal Processing
+VIP I - Audio and Signal Processing
